@@ -4,7 +4,7 @@ A Python-based data analysis project that uses Google Trends to uncover search b
 
 ## 🔍 Features
 - 🔎 **Flexible Keyword Search** — change one variable to analyze any topic
-- 🌍 **Top 15 Countries** — ranked by keyword search interest with bar charts
+- 🌍 **Top 10 Countries** — ranked by keyword search interest with bar charts
 - 🗺️ **World Map Visualization** — geographic heatmap of search trends
 - 📈 **Time-Series Analysis** — how interest in a keyword evolved over the years
 - 🔗 **Related Keywords Comparison** — side-by-side trend comparison graphs
