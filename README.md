@@ -12,7 +12,7 @@ A Python-based data analysis project that uses Google Trends to uncover search b
 ## 🛠️ Tech Stack
 - Python, Pandas, PyTrends
 - Matplotlib, Seaborn, Plotly
-- Jupyter Notebook
+  
 
 ## 📚 Learning Credit
 Built by following this tutorial: https://youtu.be/689eUgQpVC4?si=TQ7BgxR_-FfXgA5i
